@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "LEDs (Light Emitting Diodes) have revolutionized the automotive, sport vehicle, and heavy equipment industry. \_Efficiency is driving the revolution, along with whiter light that mimics daylight, and unique design forms only available to LEDs."
-datePublished: '2016-03-16T03:46:43.905Z'
-dateModified: '2016-03-16T03:46:12.471Z'
+datePublished: '2016-03-16T13:46:06.900Z'
+dateModified: '2016-03-16T03:46:50.860Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-16-leds-light-emitting-diodes-have-revolutionized-the-automot.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-leds-light-emitting-diodes-have-revolutionized-the-automot.md
-published: true
 url: leds-light-emitting-diodes-have-revolutionized-the-automot/index.html
 _type: Article
 
