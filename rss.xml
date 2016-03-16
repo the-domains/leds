@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[LEDS]]></title>
         <description><![CDATA[LEDS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 03:46:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 13:46:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leds/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23bdc9c9-7862-4f9d-bc5a-88207071baa9.jpg">]]></description>
-            <link>undefinedleds-light-emitting-diodes-have-revolutionized-the-automot/index.html</link>
+            <link>https://thegrid.ai/leds/leds-light-emitting-diodes-have-revolutionized-the-automot/index.html</link>
             <guid isPermaLink="false">1883dbf7-aee9-47dd-83e8-46ff1210cbb2</guid>
-            <pubDate>Wed, 16 Mar 2016 03:46:43 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 13:46:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
